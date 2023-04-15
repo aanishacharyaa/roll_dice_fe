@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">roll die</string>
+    <string name="result">Result: %s</string>
+    <string name="two_results">Results: %s, %s</string>
+    <string-array name="dice_types">
+        <item>4-sided</item>
+        <item>6-sided</item>
+        <item>8-sided</item>
+        <item>10-sided</item>
+        <item>12-sided</item>
+        <item>20-sided</item>
+    </string-array>
+</resources>
